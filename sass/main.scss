@@ -51,3 +51,13 @@ img.cartIcon {
     width: 1140px;
     height: 588px;
 }
+
+.carousel-caption {
+    top: 170px;
+    left: 170px;
+    bottom: auto;
+    right: auto;
+    > button {
+        margin-top: 1.5em;
+    }
+}
