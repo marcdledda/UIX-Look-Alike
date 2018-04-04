@@ -1,3 +1,35 @@
 @import url("https://fonts.googleapis.com/css?family=Nunito|PT+Serif");
+h4.nav {
+  font-size: 13px; }
+
+h1.title {
+  font-size: 26px; }
+
+nav {
+  width: 72%;
+  margin: auto; }
+
+img.cartIcon {
+  width: 21px;
+  height: 26px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 16px;
+  margin-right: 13px; }
+
+.col-centered {
+  float: none;
+  margin: 0 auto;
+  text-align: center; }
+
+.rightSide {
+  float: right; }
+
+.nav {
+  padding: 1em; }
+
+.carousel-inner > .carousel-item > img {
+  width: 1140px;
+  height: 588px; }
 
 /*# sourceMappingURL=styles.css.map */

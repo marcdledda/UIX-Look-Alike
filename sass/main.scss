@@ -4,7 +4,50 @@ $red: #fd69ea;
 $blue: #d2d5ea;
 $purp: #d29fbb;
 $white: white;
+$dirtewhite: #f3f3f3;
+$deepblue: #bddce3;
 
 @import url('https://fonts.googleapis.com/css?family=Nunito|PT+Serif');
 $header-font: 'PT Serif', serif;
 $para-font: 'Nunito', sans-serif;
+
+h4.nav {
+    font-size: 13px;
+}
+
+h1.title {
+    font-size: 26px;
+}
+
+nav {
+    width: 72%;
+    margin: auto;
+}
+
+img.cartIcon {
+    width: 21px;
+    height: 26px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 16px;
+    margin-right: 13px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.rightSide {
+    float: right;
+}
+
+.nav {
+    padding: 1em;
+}
+
+.carousel-inner > .carousel-item > img {
+    width: 1140px;
+    height: 588px;
+}
