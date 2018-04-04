@@ -61,3 +61,21 @@ img.cartIcon {
         margin-top: 1.5em;
     }
 }
+
+.col > h1 {
+    font-size: 26px;
+}
+
+.col > p {
+    margin-top: 24px;
+    font-size: 13px;
+    margin-bottom: 24px;
+}
+
+.card {
+    border: none;
+    > img {
+        width: 380px;
+        height: 380px;
+    }
+}
